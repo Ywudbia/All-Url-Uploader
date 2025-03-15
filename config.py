@@ -17,6 +17,7 @@ class Config(object):
     # The Telegram API things
     API_ID = "20562331"
     API_HASH = "9e3e4148e73756a85b95fc69980b678d"
+    PORT = 8080
     # Get these values from my.telegram.org
     # Array to store users who are authorized to use the bot
 
